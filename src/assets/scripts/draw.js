@@ -57,9 +57,9 @@ export let draw = {
             ctx.textAlign = "right"
             ctx.fillStyle = "#ffffff"
             ctx.font = "96px Dela Gothic One";
-            ctx.fillText(constructor.lines[0].value, canvas.width - 60, 20+139);
+            ctx.fillText(constructor.lines[0].value, canvas.width - 60, 15+139);
             ctx.font = "64px Dela Gothic One";
-            ctx.fillText(constructor.lines[1].value, canvas.width - 60, 120+93);
+            ctx.fillText(constructor.lines[1].value, canvas.width - 60, 125+93);
         }
     }},
     standart: (ctx, constructor, canvas) => {
@@ -78,9 +78,9 @@ export let draw = {
             ctx.textAlign = "right"
             ctx.fillStyle = "#ffffff"
             ctx.font = "96px Dela Gothic One";
-            ctx.fillText(constructor.lines[0].value, canvas.width - 60, 20+139);
+            ctx.fillText(constructor.lines[0].value, canvas.width - 60, 15+139);
             ctx.font = "64px Dela Gothic One";
-            ctx.fillText(constructor.lines[1].value, canvas.width - 60, 120+93);
+            ctx.fillText(constructor.lines[1].value, canvas.width - 60, 125+93);
         }
     }},
 }
