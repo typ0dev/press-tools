@@ -10,6 +10,7 @@
 <span class="subtitle">Добро пожаловать в удобный инструмент созданный специально для Университетского Колледжа и его пресс-центра</span>
 <Divider title="Пресса"/>
 <a href="{base}/generator">Генератор картинок</a>
+
 <Divider title="Мероприятия"/>
 <a href="{base}/random" disabled>Рандомайзер</a>
 <a href="{base}/roulette" disabled>Рулетка</a>
@@ -28,7 +29,10 @@
 <span class="subtitle">Так же пишите для предложений по функционалу!</span>
 <img class="developer" src="{powered}" alt="">
 
+
 <style>
+
+
     .support {
         display: flex;
         flex-direction: row;

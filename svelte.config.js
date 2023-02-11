@@ -6,8 +6,9 @@ const config = {
     adapter: adapter(),
     paths: {
       base: process.env.NODE_ENV === "production" ? "/press-tools" : "",
-    },
+    }
   },
+  floc: false
 };
 
 export default config;
