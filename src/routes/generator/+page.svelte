@@ -217,7 +217,7 @@
 <select bind:value={constructor.template} on:click={update}>
     <option value="" disabled selected>Выберите шаблон</option>
     {#each templates as item}
-        <option value={item.value} on:click={update} on:click={() => change(item.id, item.value, item.width, item.height, item.noimage, item.lines)}>{item.name}</option>
+        <option value={item.value} on:click={() => { update(); change(item.id, item.value, item.width, item.height, item.noimage, item.lines)}}>{item.name}</option>
     {/each}
 </select>
 
