@@ -1,7 +1,7 @@
 <br/>
 <br/>
 <div align="middle">
-  <a href="https://xl-soft.github.io/press-tools">
+  <a href="https://xl-soft.github.io/press-tools" target="_blank" rel="noreferrer">
     <img src="./src/assets/img/light-logo-collab.png" height=50>
   </a>
 </div>
@@ -9,8 +9,12 @@
 #
 
 <h3 align="center" style="margin-bottom: 15px;">
-    <strong>Удобный инструмент созданный специально для Профбюро Университетского Колледжа и его пресс-центра </strong> 
+    <strong>Удобный инструмент созданный специально для Профбюро Университетского Колледжа и его пресс-центра</strong> 
 </h3>
+
+<p align="right">
+    <img src="./src/assets/img/sveltekit.svg" />
+</p>
 
 __В данный момент включает в себя следующие инструменты:__
 * <a href="#generate">Генератор картинок</a>
@@ -160,10 +164,7 @@ __Веса символов:__
 </p>
 
 <div align="center" style="opacity: 0.2; margin-top:50px">
-  <a href="https://vk.com/xlsoftware">
+  <a href="https://vk.com/xlsoftware" target="_blank" rel="noreferrer">
     <img src="./src/assets/img/powered.svg" width=150>
   </a>
 </div>
-<p align="center" style="opacity: 0.2; margin-top:10px">
-    <img src="https://skillicons.dev/icons?i=svelte" />
-</p>
