@@ -1,10 +1,8 @@
 
-#
-
-<p align="center">
-<img src="https://xl-soft.github.io/press-tools/_app/immutable/assets/light-logo-94cca3b3.svg" width=200>
-by XL Software
-</p>
+<div align="center">
+    <img src="https://xl-soft.github.io/press-tools/_app/immutable/assets/light-logo-94cca3b3.svg" width=200>
+    by XL Software
+</div>
 
 #
 
