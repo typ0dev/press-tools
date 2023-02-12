@@ -1,8 +1,9 @@
 <br/>
 <br/>
-<div align="center">
-    <img src="https://xl-soft.github.io/press-tools/_app/immutable/assets/light-logo-94cca3b3.svg" width=200>
-    <strong>by XL Software</strong> 
+<div align="middle">
+  <a href="https://xl-soft.github.io/press-tools">
+    <img src="./src/assets/img/light-logo-collab.png" height=50>
+  </a>
 </div>
 
 #
@@ -149,9 +150,20 @@ __Веса символов:__
 ```
 <h2 id="screenshots">Скриншоты</h2>
 
-<img src="https://sun9-76.userapi.com/impg/dLpTx1NL6Re9vHnEOKZN9EXFenW_XNKrItz7bQ/bfuHpDK07CI.jpg?size=541x1080&quality=95&sign=e1547a8bb4ba634ae235dac5820145d1&type=album" width=200>
-<img src="https://sun9-24.userapi.com/impg/0sU7BfweJ9NwTS8jKZ3MujhkZj_ltHKgNt13FQ/nmH5XJzwVTY.jpg?size=561x1080&quality=95&sign=58d5199953b4501b2b3cc5fdf8231c6e&type=album" width=200>
-<img src="https://sun9-37.userapi.com/impg/s9kZLBNdL5UUhzx1RkxQDeBrRbDtwGsXU27XWA/QyMJfNvJVAA.jpg?size=795x1080&quality=95&sign=941f797dc6d8f88fdd49cf970fb2d1e0&type=album" width=200>
-<img src="https://sun9-69.userapi.com/impg/UGy-wpoSs0HFE1Tl0Bt76LmHhJ60W-tcdsohUw/ldCygpYdP4A.jpg?size=520x1080&quality=95&sign=5258f5b92750a47cdceae83952397c5d&type=album" width=200>
-<img src="https://sun9-13.userapi.com/impg/OK4yp_NnccePN4DsIk4e69xoqUlP7BQwyHBwww/g-i9hwdxuiQ.jpg?size=596x1080&quality=95&sign=7dcc3b2a4df7c21d72535d495831d641&type=album" width=200>
-<img src="https://sun9-53.userapi.com/impg/Sjj3gRMnsGig7yhqeRdZ39vpQOGn8zsQ3nIaOw/hsbMgDmrNAY.jpg?size=542x1080&quality=95&sign=b22116bb92aec723e9a4898b4910de76&type=album" width=200>
+<p float="left" align="middle">
+    <img src="https://sun9-76.userapi.com/impg/dLpTx1NL6Re9vHnEOKZN9EXFenW_XNKrItz7bQ/bfuHpDK07CI.jpg?size=541x1080&quality=95&sign=e1547a8bb4ba634ae235dac5820145d1&type=album" width=200>
+    <img src="https://sun9-24.userapi.com/impg/0sU7BfweJ9NwTS8jKZ3MujhkZj_ltHKgNt13FQ/nmH5XJzwVTY.jpg?size=561x1080&quality=95&sign=58d5199953b4501b2b3cc5fdf8231c6e&type=album" width=200>
+    <img src="https://sun9-37.userapi.com/impg/s9kZLBNdL5UUhzx1RkxQDeBrRbDtwGsXU27XWA/QyMJfNvJVAA.jpg?size=795x1080&quality=95&sign=941f797dc6d8f88fdd49cf970fb2d1e0&type=album" width=200>
+    <img src="https://sun9-69.userapi.com/impg/UGy-wpoSs0HFE1Tl0Bt76LmHhJ60W-tcdsohUw/ldCygpYdP4A.jpg?size=520x1080&quality=95&sign=5258f5b92750a47cdceae83952397c5d&type=album" width=200>
+    <img src="https://sun9-13.userapi.com/impg/OK4yp_NnccePN4DsIk4e69xoqUlP7BQwyHBwww/g-i9hwdxuiQ.jpg?size=596x1080&quality=95&sign=7dcc3b2a4df7c21d72535d495831d641&type=album" width=200>
+    <img src="https://sun9-53.userapi.com/impg/Sjj3gRMnsGig7yhqeRdZ39vpQOGn8zsQ3nIaOw/hsbMgDmrNAY.jpg?size=542x1080&quality=95&sign=b22116bb92aec723e9a4898b4910de76&type=album" width=200>
+</p>
+
+<div align="center" style="opacity: 0.2; margin-top:50px">
+  <a href="https://vk.com/xlsoftware">
+    <img src="./src/assets/img/powered.svg" width=150>
+  </a>
+</div>
+<p align="center" style="opacity: 0.2; margin-top:10px">
+    <img src="https://skillicons.dev/icons?i=svelte" />
+</p>
