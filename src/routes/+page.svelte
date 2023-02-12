@@ -3,6 +3,9 @@
     import logo_light from "../assets/img/light-logo.svg"
     import powered from "../assets/img/powered.svg"
     import Divider from "../assets/Divider.svelte";
+    import { titlehead } from "../assets/scripts/stores";
+
+    titlehead.set('Главная')
 </script>
 
 <img class="logo" src="{logo_light}" alt="">

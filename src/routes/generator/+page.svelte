@@ -5,6 +5,9 @@
     import { draw } from "../../assets/scripts/draw";
     import background from "../../assets/img/background.png"
     import { onMount } from "svelte";
+    import { titlehead } from "../../assets/scripts/stores";
+
+    titlehead.set('Генератор картинок')
 
 
     let templates = [

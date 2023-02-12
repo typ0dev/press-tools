@@ -1,11 +1,17 @@
 <script>
-    import { vh } from "../assets/scripts/stores"
+    import { vh, titlehead } from "../assets/scripts/stores"
     import "../assets/fonts/font-faces.css"
+    import favicon from "../assets/img/favicon.svg"
     vh.set(window.innerHeight * 0.01)
     window.addEventListener('resize', function(event) {
         vh.set(window.innerHeight * 0.01)
     }, true);
 </script>
+
+<svelte:head>
+    <link rel="shortcut icon" href="{favicon}" type="image/x-icon">
+    <title>PRESStools - {$titlehead}</title>
+</svelte:head>
 
 <main style="min-height: {$vh * 100}px; width: 100vw; background: var(--dark-blue-1000); overflow-x: hidden;">
     <slot></slot>
