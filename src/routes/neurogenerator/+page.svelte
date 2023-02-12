@@ -68,7 +68,7 @@
         link.click()
     }
 </script>
-<a href="{base}/">Назад</a>
+
 <Divider title="Результат"/>
 <canvas width="{constructor.width}" height="{constructor.height}" id="canvas"></canvas>
 <button style="width: 300px" on:click={update}>Сгенерировать</button>
@@ -106,12 +106,5 @@
         width: clamp(200px, 300px, 80vw);
         background: var(--dark-blue-100);
         border-radius: 10px;
-    }
-    a {
-        position: fixed;
-        top: 50px;
-        left: 50px;
-        width: 100px;
-        z-index: 1000;
     }
 </style>
