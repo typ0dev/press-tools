@@ -10,6 +10,7 @@
 <span class="subtitle">Добро пожаловать в удобный инструмент созданный специально для Университетского Колледжа и его пресс-центра</span>
 <Divider title="Пресса"/>
 <a href="{base}/generator">Генератор картинок</a>
+<a href="{base}/neurogenerator">Нейроновости</a>
 
 <Divider title="Мероприятия"/>
 <a href="{base}/random" disabled>Рандомайзер</a>

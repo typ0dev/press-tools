@@ -1,0 +1,20 @@
+{
+    "data": [
+        { "symbol": "1", "weight": 1.0112323 },
+        { "symbol": "2", "weight": 2.0664453 },
+        { "symbol": "3", "weight": 1.1146244 },
+        { "symbol": "4", "weight": 1.1314625 },
+        { "symbol": "5", "weight": 1.1714215 },
+        { "symbol": "6", "weight": 4.2412312 },
+        { "symbol": "7", "weight": 3.2851431 },
+        { "symbol": "8", "weight": 1.3223624 },
+        { "symbol": "9", "weight": 2.3764632 },
+        { "symbol": "0", "weight": 1.4213255 },
+        { "symbol": "a", "weight": 1.4623524 },
+        { "symbol": "b", "weight": 2.5162343 },
+        { "symbol": "c", "weight": 1.5973653 },
+        { "symbol": "d", "weight": 1.6784354 },
+        { "symbol": "e", "weight": 2.7488788 },
+        { "symbol": "f", "weight": 1.7824987 }
+    ]
+}
