@@ -38,7 +38,7 @@ __Шаблоны:__
 | **День рождения**               | birthday      | 1500      | 1500       | 3      |             |
 | **Стипком**                     | stipcom       | 1920      | 325        | 4      | true        |
 
-__Результат генерации:__
+__Результат генерации:__<br/>
 <img src="https://sun9-53.userapi.com/impg/uczAXJ6Amdg5nWS4Jlgar2XOhntcNFZ9CaLSkg/Roi-jNVgUQs.jpg?size=2000x1500&quality=95&sign=4da989a9096d04346a9b27f14efa76f9&type=album" width=400>
 
 <h2 id="neurogenerate">Нейроновости</h2>
@@ -159,7 +159,7 @@ __Веса символов:__
 Генерирует рандомное число по заданным параметрам с красивой анимацией<br/>
 Очень удобен для проведения розыгрышей<br/>
 
-__Результат генерации:__
+__Результат генерации:__<br/>
 <img src="https://sun9-46.userapi.com/impg/cNTDEWdE16LsEwy3FQcWn-AdHscyQMH7NxKFVQ/fGdxM5NeYpY.jpg?size=1920x940&quality=96&sign=75933f206827050e86c0187bd431e0e8&type=album" width=400>
 
 <h2 id="randomlove">Любовный рандомайзер</h2>
@@ -168,7 +168,7 @@ __Результат генерации:__
 Очень удобен для проведения розыгрышей<br/>
 Приурочен к Дню Святого Валентина, но так же может использоватся на чем то связанном с лайками<br/>
 
-__Результат генерации:__
+__Результат генерации:__<br/>
 <img src="https://sun9-37.userapi.com/impg/apDarFjCiRBz_SX5Oa2wTYv5_BkcFrXZc9Im7w/9a68tIwmZuw.jpg?size=1920x943&quality=96&sign=676ee71c7806cd0c0d1d86ea09ea3a30&type=album" width=400>
 
 <h2 id="screenshots">Скриншоты</h2>
