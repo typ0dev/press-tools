@@ -19,10 +19,8 @@
 __В данный момент включает в себя следующие инструменты:__
 * <a href="#generate">Генератор картинок</a>
 * <a href="#neurogenerate">Нейроновости</a>
-
-__Планируются:__
-* <a href="#">Рандомайзер</a>
-* <a href="#">Рулетка</a>
+* <a href="#random">Рандомайзер</a>
+* <a href="#randomlove">Любовный рандомайзер</a>
 
 __Полезное:__
 * <a href="#screenshots">Скриншоты</a>
@@ -152,6 +150,22 @@ __Веса символов:__
     ]
 }
 ```
+
+<h2 id="random">Рандомайзер</h2>
+
+Генерирует рандомное число по заданным параметрам с красивой анимацией
+Очень удобен для проведения розыгрышей
+
+<img src="https://sun9-46.userapi.com/impg/cNTDEWdE16LsEwy3FQcWn-AdHscyQMH7NxKFVQ/fGdxM5NeYpY.jpg?size=1920x940&quality=96&sign=75933f206827050e86c0187bd431e0e8&type=album" width=400>
+
+<h2 id="randomlove">Любовный рандомайзер</h2>
+
+Генерирует рандомное число по заданным параметрам с красивой анимацией
+Очень удобен для проведения розыгрышей
+Приурочен к Дню Святого Валентина, но так же может использоватся на чем то связанном с лайками
+
+<img src="https://sun9-37.userapi.com/impg/apDarFjCiRBz_SX5Oa2wTYv5_BkcFrXZc9Im7w/9a68tIwmZuw.jpg?size=1920x943&quality=96&sign=676ee71c7806cd0c0d1d86ea09ea3a30&type=album" width=400>
+
 <h2 id="screenshots">Скриншоты</h2>
 
 <p float="left" align="middle">

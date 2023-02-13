@@ -16,8 +16,8 @@
 <a href="{base}/neurogenerator">Нейроновости</a>
 
 <Divider title="Мероприятия"/>
-<a href="{base}/random" disabled>Рандомайзер</a>
-<a href="{base}/roulette" disabled>Рулетка</a>
+<a href="{base}/randomlove">Любовный рандомайзер</a>
+<a href="{base}/random">Рандомайзер</a>
 <Divider title="Поддержка"/>
 <div class="support">
     <a style="width: 40px" href="https://t.me/xlsoftware" rel="noreferrer" target="_blank">
